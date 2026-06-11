@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>DIARIO UNI</title>
   <meta name="google-site-verification" content="kbJOq6u_FyKVL1HAyfwVPCYz-Iy80mb0IpEHoxotai8" />
 </head>
 </html>
