@@ -1,5 +1,11 @@
 # diariouni.github.io
 
+<!DOCTYPE html>
+<html>
+<head><meta name="google-site-verification" content="kbJOq6u_FyKVL1HAyfwVPCYz-Iy80mb0IpEHoxotai8" /></head>
+</html>
+
+
 HOME PAGE DI DIARIO UNI
 
 Benvenuto su Diario Uni!
