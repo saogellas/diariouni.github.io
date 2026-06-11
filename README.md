@@ -1,12 +1,6 @@
 # diariouni.github.io
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta name="google-site-verification" content="kbJOq6u_FyKVL1HAyfwVPCYz-Iy80mb0IpEHoxotai8" />
-</head>
-</html>
-
+google-site-verification: googlefd7f22ee6229ea91.html
 
 HOME PAGE DI DIARIO UNI
 
